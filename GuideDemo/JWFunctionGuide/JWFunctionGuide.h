@@ -15,6 +15,7 @@ typedef NS_ENUM(NSUInteger, GuideViewAlignmentPriority) {
     GuideViewAlignmentTopFirst     //顶部优先
 };
 
+
 //@protocol JWFunctionGuideDelegate<NSObject>
 //- (void)didBtnGuideClick:(id)sender;
 //@end

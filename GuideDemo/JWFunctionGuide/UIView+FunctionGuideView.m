@@ -12,6 +12,7 @@
 static char versionKeyName;
 static char theContainerView;
 static char btnActionsDic;
+
 //位置
 typedef NS_ENUM(NSUInteger, GuideViewLocation) {
     GuideViewLocationDefault = 0,

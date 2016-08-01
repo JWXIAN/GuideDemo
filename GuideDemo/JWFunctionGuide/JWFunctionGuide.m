@@ -9,6 +9,7 @@
 #import "JWFunctionGuide.h"
 
 @implementation JWFunctionGuide
+
 - (instancetype)initWithFocusRect:(CGRect)rect focusCornerRadius:(CGFloat) focusCornerRadius  focusInsets:(UIEdgeInsets) focusInsets
 {
     self = [super init];

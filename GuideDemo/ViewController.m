@@ -27,6 +27,7 @@
 }
 - (void)viewDidAppear:(BOOL)animated{
     [super viewDidAppear:animated];
+    
     JWFunctionGuide *guide = [[JWFunctionGuide alloc] initWithFocusRect:CGRectMake(50, 50, 40, 40) focusCornerRadius:0 focusInsets:UIEdgeInsetsZero];
     //    EAFeatureItem *item8 = [[EAFeatureItem alloc] initWithFocusView:self.leftView focusCornerRadius:0 focusInsets:UIEdgeInsetsZero];
     guide.introduce = @"该项目参考Github上学习开发";
