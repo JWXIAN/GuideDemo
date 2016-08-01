@@ -8,5 +8,4 @@
 [![Bintray](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/JWXIAN/MVCProject)
 
 -
-
-![image][https://github.com/JWXIAN/GuideDemo/blob/master/a.png]
+![image](https://github.com/JWXIAN/GuideDemo/blob/master/a.png)
